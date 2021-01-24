@@ -1,0 +1,289 @@
+------------------------------------------------------------
+/usr/bin/pip3 run on Wed May 27 19:21:53 2020
+Downloading/unpacking adafruit-blinka
+  Getting page https://pypi.python.org/simple/adafruit-blinka/
+  URLs to search for versions for adafruit-blinka:
+  * https://pypi.python.org/simple/adafruit-blinka/
+  Analyzing links from page https://pypi.org/simple/adafruit-blinka/
+    Found link https://files.pythonhosted.org/packages/9d/39/d3959b31a4fff1946fb8e595a4f5d0415b2686f3811a13412f87ac662afc/Adafruit-Blinka-0.1.3.tar.gz#sha256=71b8b35f92dacac97a26ea605d448da8a3a4fce728e4f01b5bb1ddc006b905b1 (from https://pypi.org/simple/adafruit-blinka/), version: 0.1.3
+    Found link https://files.pythonhosted.org/packages/91/83/bfb9163b42c0561a849618186d4f9a48d613e24cf4b9613657e1ce7b1e02/Adafruit-Blinka-0.1.4.tar.gz#sha256=00334169d12223b23e0e96c9c9e3438c8406cd9106a9ee3e46aa7e45cd5d761f (from https://pypi.org/simple/adafruit-blinka/), version: 0.1.4
+    Found link https://files.pythonhosted.org/packages/e0/54/ed6ae010ef99b0f2637c86383ab298b0ac928fadb46b3445940a14d8512f/Adafruit-Blinka-0.1.5.tar.gz#sha256=24ee25bc0d4af149478236a3f5fdf26e0f25cee1dec37d9fa003f3affed8b80e (from https://pypi.org/simple/adafruit-blinka/), version: 0.1.5
+    Found link https://files.pythonhosted.org/packages/59/99/b0624ca2979f1bac335219ba0481eb47fdbd8c23fa6c8905e01069a39cc0/Adafruit-Blinka-0.1.6.tar.gz#sha256=88a83239ae0953dc1db8c732c22387e731be66d35e702239fbbff464eb04a4df (from https://pypi.org/simple/adafruit-blinka/), version: 0.1.6
+    Found link https://files.pythonhosted.org/packages/7c/c8/50d8bd8525f1933e5436779b527c3da6c7ffb567d15a9c0d9fe3ac10f194/Adafruit-Blinka-0.1.7.tar.gz#sha256=4e0c01304f5358fb9055dbece144f505b80ae3c3d73bca966cab7ac40b82ddb5 (from https://pypi.org/simple/adafruit-blinka/), version: 0.1.7
+    Found link https://files.pythonhosted.org/packages/c1/ac/2e7fcd187cb12f2e88dc660a85fe9af9cc753e756c7dafc0567ec1f9399e/Adafruit-Blinka-0.1.8.tar.gz#sha256=b0d58479e3a3c0dfb5047e9f3ab1c728e8921de1fdb209ecf01276590487cebf (from https://pypi.org/simple/adafruit-blinka/), version: 0.1.8
+    Found link https://files.pythonhosted.org/packages/26/ed/32d667eb999ceff9b99fde38e0666e8442184295386750c114798ecec31a/Adafruit-Blinka-0.1.9.tar.gz#sha256=9bc82e4b4e014f9fed1e92dd6bcd75cb263f2b2f0985778785508baded1e4fef (from https://pypi.org/simple/adafruit-blinka/), version: 0.1.9
+    Found link https://files.pythonhosted.org/packages/cf/5f/001f9e035e190a40ba50ab3f73267e56b1edec186fb7a8fb79ce9ea45fbf/Adafruit-Blinka-0.1.10.tar.gz#sha256=bc811ae6159e7476dd86c6498f3a7bdb5a4b52caca20bcaa50bf95678fd9d282 (from https://pypi.org/simple/adafruit-blinka/), version: 0.1.10
+    Found link https://files.pythonhosted.org/packages/04/c2/c9b0cfc5b53198e3e6122ec9c2bb4e623176dbcc5515205c8899d402af6d/Adafruit-Blinka-0.2.tar.gz#sha256=45624fa620a77ecc6f5be135354adbe08d4e3224f7b2f97ddc3945f8614a95d4 (from https://pypi.org/simple/adafruit-blinka/), version: 0.2
+    Found link https://files.pythonhosted.org/packages/61/5f/2ec5ebd4ae755ed05ace0c3a5162f8b9a8ec5d28c9423878826983850e33/Adafruit-Blinka-0.2.1.tar.gz#sha256=7662e10c658f9c08ad13ea4957347e49139c95660059ec43df686fe7e1a24bde (from https://pypi.org/simple/adafruit-blinka/), version: 0.2.1
+    Found link https://files.pythonhosted.org/packages/b7/88/ff293dfe0f40daae90528881414b83c1c8559e9c86455bf6b71f8b8065d2/Adafruit-Blinka-0.2.2.tar.gz#sha256=a75d6fbbf2c89089798f85a3161a61ecf1917a1b66a25179e873aef73aa8312d (from https://pypi.org/simple/adafruit-blinka/), version: 0.2.2
+    Found link https://files.pythonhosted.org/packages/69/6c/3ace0946cf2de9d8c3f56ed1b360806eb63d2eb35be2337a619437c95794/Adafruit-Blinka-0.2.3.tar.gz#sha256=26a8b8c854632de63af6b8db6aba057e55c24a2a76a207c4f1ff08c9fa3345b2 (from https://pypi.org/simple/adafruit-blinka/), version: 0.2.3
+    Found link https://files.pythonhosted.org/packages/33/83/4844d3cf21e6e6745391d01ec8930e8c618420acf8cea6814395d17e31da/Adafruit-Blinka-0.2.4.tar.gz#sha256=579190379e10319a9315b3da114efb278956a212c50177ac8e2d24a17f8153ad (from https://pypi.org/simple/adafruit-blinka/), version: 0.2.4
+    Found link https://files.pythonhosted.org/packages/3f/a4/32fab0466dec93fb92c80006f8e98061472ee31284bdce571ba7c228c707/Adafruit-Blinka-0.2.5.tar.gz#sha256=4695d0e8cc5943a82d4ee2ee6a4baf205bf29284bc2db3497b0d1bc2fb2bb82a (from https://pypi.org/simple/adafruit-blinka/), version: 0.2.5
+    Found link https://files.pythonhosted.org/packages/8b/6c/59b033a450c9c86e2c7bb2aab5440fac1c29b36701e120bcfa58d36880ac/Adafruit-Blinka-0.2.6.tar.gz#sha256=445d51fdcec9ac5b77911ec92b2398e35c84d02ffd87f68a1215dd343498d030 (from https://pypi.org/simple/adafruit-blinka/), version: 0.2.6
+    Found link https://files.pythonhosted.org/packages/8f/9b/f8fd3d4bab36724d55bef9407c268589e48b398e5a023585d89bd453b21f/Adafruit-Blinka-0.2.7.tar.gz#sha256=e09bcdc9a332a2574e3d53c2b5100c7e5256e4f7ebdc251a1ec7080fd12fe19b (from https://pypi.org/simple/adafruit-blinka/), version: 0.2.7
+    Found link https://files.pythonhosted.org/packages/d1/4a/4e5b57ac329fb57c4807d496c9c630dce4ae10eec5b6ec35db858865df6b/Adafruit-Blinka-0.3.0.tar.gz#sha256=157f1b7b924f7a1135ad0e87065ab653157598921a460633e17d07fb58436059 (from https://pypi.org/simple/adafruit-blinka/), version: 0.3.0
+    Found link https://files.pythonhosted.org/packages/d0/f4/402ffc809bd08be6247faaa31b1775818e7e72d1cc6ad76d24093793259c/Adafruit-Blinka-0.3.1.tar.gz#sha256=ff1710ff2273d2e135a3428d70953d645f60ad96fc4be6386a9dca3a8a0c1a4e (from https://pypi.org/simple/adafruit-blinka/), version: 0.3.1
+    Found link https://files.pythonhosted.org/packages/78/de/fb08c160f579c58acb0c9641dc4e99d1501457ec11715d9bf72817d05f2b/Adafruit-Blinka-0.3.2.tar.gz#sha256=faf2371b595302b2aa170bbeb33b75cb88e30bd2f80c793e19156b00dcce5076 (from https://pypi.org/simple/adafruit-blinka/), version: 0.3.2
+    Found link https://files.pythonhosted.org/packages/b4/b6/0992703e7e319d075057628aaa6c34d4435e080164148f7a82cad75cec00/Adafruit-Blinka-0.4.0.tar.gz#sha256=841fec719cd2a6ce6c936cbe8066c1ead449d2844b2212b0f1525e49251f5d0d (from https://pypi.org/simple/adafruit-blinka/), version: 0.4.0
+    Found link https://files.pythonhosted.org/packages/e3/9c/d9f7cb23826adbcc35f734f64fa1d2a179d1577872adf3fa0c45ffd868bb/Adafruit-Blinka-1.0.2.tar.gz#sha256=f58238ff089c3615e49aaa9a77a12510667ab00e960540fa6137e87d0ebcaca5 (from https://pypi.org/simple/adafruit-blinka/), version: 1.0.2
+    Found link https://files.pythonhosted.org/packages/f9/3b/2a06a4dffb30d4817b4974f3d6268a9741552c3b4aa5a4765a42c02ed080/Adafruit-Blinka-1.1.0.tar.gz#sha256=f6a521c378f30a330361dab4f7df8d9ebceda2f7ca25b27d2a6e8b93fe9edabd (from https://pypi.org/simple/adafruit-blinka/), version: 1.1.0
+    Found link https://files.pythonhosted.org/packages/ad/c6/cc26c515ecc4cac4e2a50c2c5148122517382c52b93cfbd4304b83648614/Adafruit-Blinka-1.1.1.tar.gz#sha256=cd3f74813c9c4da5a749b05f6776910b1a1c95d7e1d6c0cb1199897d7b17adc2 (from https://pypi.org/simple/adafruit-blinka/), version: 1.1.1
+    Found link https://files.pythonhosted.org/packages/59/67/d9b1c53938775974dc8a64bf4a3fb4a9053925e852eff240b32732799a40/Adafruit-Blinka-1.2.0.tar.gz#sha256=e91549d3ae8a9c693b1d6ec11ef041f5b35203ae9ca1048dd699420a0684529c (from https://pypi.org/simple/adafruit-blinka/), version: 1.2.0
+    Found link https://files.pythonhosted.org/packages/f6/08/e99bd913ba3ff38c693bb6ba26e64dd69c1d01bd9958c341a2558348642a/Adafruit-Blinka-1.2.1.tar.gz#sha256=87a6b0fa22261f23ca9bc68dae0c3309b53cd9bc8e10f45e0188455059745dde (from https://pypi.org/simple/adafruit-blinka/), version: 1.2.1
+    Found link https://files.pythonhosted.org/packages/93/e5/f47e0116daaa45d88ab2dedb6b1736a40486e7ddd94ec5a39be9e23f3e4e/Adafruit-Blinka-1.2.3.tar.gz#sha256=5cddf49eb2512cd9e7d14fa80cdb76acb83efae2abde1abb545ab621b87fbd8e (from https://pypi.org/simple/adafruit-blinka/), version: 1.2.3
+    Found link https://files.pythonhosted.org/packages/36/3f/5e7681f41cdb03f3eaa9ef8a002411ea9fda78f1b05cafccc738b1968f6f/Adafruit-Blinka-1.2.4.tar.gz#sha256=43a4151b8a3fe19a140b8fc52c1ee57720738012d9f6455314de19ad97ed07fb (from https://pypi.org/simple/adafruit-blinka/), version: 1.2.4
+    Found link https://files.pythonhosted.org/packages/92/f8/22523c09c4b943ba976374973e4406726b90fa8d5860428fdaee8912a80f/Adafruit-Blinka-1.2.5.tar.gz#sha256=bb774ac4631c07be4e8a7d27eb19b7e0e45bd4f0eb147452a22810716abfb1a1 (from https://pypi.org/simple/adafruit-blinka/), version: 1.2.5
+    Found link https://files.pythonhosted.org/packages/01/a2/0fbc7c158627b4e5971a74ba1a966ee1f9b28ae14dd6f8637bbb94fc98e4/Adafruit-Blinka-1.2.6.tar.gz#sha256=3a2ca08eea2b66a19c9279bf050db1161358ac2791d9cf07f1ff13d8dbbb3013 (from https://pypi.org/simple/adafruit-blinka/), version: 1.2.6
+    Found link https://files.pythonhosted.org/packages/2e/fb/654ef5173aecfc062c3a8a3874764d792d9c4c0f0c061181f113cebd610a/Adafruit-Blinka-1.2.7.tar.gz#sha256=b6b91d77d9f19a2b01190716bfd1f8b2ff4d6228d73b8e2a2aa798818e6e619b (from https://pypi.org/simple/adafruit-blinka/), version: 1.2.7
+    Found link https://files.pythonhosted.org/packages/8c/50/cc25558f739bdb9f56b3d669d5237af2a443f13a84072cb50d003c23d602/Adafruit-Blinka-1.2.8.tar.gz#sha256=13e3afcd0895d6172be837d1f625fc0478dba0453ce288bcd759c9bb85ba81a4 (from https://pypi.org/simple/adafruit-blinka/), version: 1.2.8
+    Found link https://files.pythonhosted.org/packages/56/c5/faefe60f900995b7c15d55c0a1798baa27390f8d6ad3db0c35cbdac9c140/Adafruit-Blinka-1.3.0.tar.gz#sha256=081d94e94913a40fac835686355254b1dc4db5ec1c0e9532bdd9bbaacc33ee70 (from https://pypi.org/simple/adafruit-blinka/), version: 1.3.0
+    Found link https://files.pythonhosted.org/packages/41/5c/3c16508ab2207e8feff8496180de9697593593ebf28b2e5827270095cb0d/Adafruit-Blinka-1.3.1.tar.gz#sha256=207a34ef1f743e378dec0a0f36ea236fe2ecb1a926aedeeff2fec4ae9f746b1a (from https://pypi.org/simple/adafruit-blinka/), version: 1.3.1
+    Found link https://files.pythonhosted.org/packages/8d/7b/7de59c0b1d0eb5b746eff799def886cc205ac479263032503f539a23ad6e/Adafruit-Blinka-1.3.2.tar.gz#sha256=b640e06b2fc4a763a82b3051e09105ff60133132cc256e9df2c46684476fc884 (from https://pypi.org/simple/adafruit-blinka/), version: 1.3.2
+    Found link https://files.pythonhosted.org/packages/71/0a/3c603ab7b90014152ddbfce6d13b8d1c0a6d59b834d7577d08b5bc9864b0/Adafruit-Blinka-1.3.3.tar.gz#sha256=e7ebd6b69e92eb8bbd7f4b9221f75c48bc28eb1c90a22c6ec7be4ba4aee18fd0 (from https://pypi.org/simple/adafruit-blinka/), version: 1.3.3
+    Found link https://files.pythonhosted.org/packages/1d/4d/ad51a94ca522b473efecaff5a57d386012bff1687a3c816e69a74d90b39b/Adafruit-Blinka-1.3.4.tar.gz#sha256=f07af6633b6218e225275c937ec8670d511c4cd3ed8345c7b42d568d01aa9845 (from https://pypi.org/simple/adafruit-blinka/), version: 1.3.4
+    Found link https://files.pythonhosted.org/packages/18/71/2cec84650aca8468c01a12f273187b10bcebfb237b18411a87a20faa78fa/Adafruit-Blinka-2.0.0.tar.gz#sha256=7ccb8074a2eb55664d60f7a9baf63f25bf8f6e13d60f7d2b05f782014a8e84ec (from https://pypi.org/simple/adafruit-blinka/), version: 2.0.0
+    Found link https://files.pythonhosted.org/packages/3c/4b/d20dd5cb2fbefec58b6d4528096d018d3616efed8629a54d700375bc0cf1/Adafruit-Blinka-2.0.1.tar.gz#sha256=802c67400b6c5db3774b31065ef5c4d1b83d146a42730cfd69eea5d1addedfd7 (from https://pypi.org/simple/adafruit-blinka/), version: 2.0.1
+    Found link https://files.pythonhosted.org/packages/a0/3e/c355f6e8667ff27a2c98fcd725f168429148a5e9720951809445faad2f93/Adafruit-Blinka-2.0.2.tar.gz#sha256=980411e0fd779b3291e7e3dd895ea7ac5f2fddd88df87a8051b2b3d020666ced (from https://pypi.org/simple/adafruit-blinka/), version: 2.0.2
+    Found link https://files.pythonhosted.org/packages/73/61/fee18112decad1719af0cc68e21dc915afdda4435b8a3c5c75bb5674cd25/Adafruit-Blinka-2.1.0.tar.gz#sha256=caade64fa16acdb9a591d166c125571d97f9c8af47ed716835c55e72a578eb66 (from https://pypi.org/simple/adafruit-blinka/), version: 2.1.0
+    Found link https://files.pythonhosted.org/packages/38/f6/eeb44eb8c9c6353257d75b08376503119cb18f7148a8526d634a7b4eb83c/Adafruit-Blinka-2.1.1.tar.gz#sha256=7172802cbfbde24b7f7d2a1e3fedd632f4a51031c1fc1934401acece27ef73fe (from https://pypi.org/simple/adafruit-blinka/), version: 2.1.1
+    Found link https://files.pythonhosted.org/packages/98/2f/4bdcc8f4775156a6b7e18756e135b42fed51a56d68a1dd347357d4f5f33a/Adafruit-Blinka-2.1.2.tar.gz#sha256=56438a9a38f4ef6ce17b05d3ae626339653e5ec504b4729dd3f5545745b8e35a (from https://pypi.org/simple/adafruit-blinka/), version: 2.1.2
+    Found link https://files.pythonhosted.org/packages/1a/fc/e17a190474d684c34a1b226eb627e397bbc9b90ed23d60733a87472b4cf0/Adafruit-Blinka-2.1.3.tar.gz#sha256=94ee98b5828dd1f0aa503c0544687db844fab0b2c41ca765bc322f67ff3a4a40 (from https://pypi.org/simple/adafruit-blinka/), version: 2.1.3
+    Found link https://files.pythonhosted.org/packages/0b/11/27a3a5a3817ce858adac3ce4ec71381f36fc2e8c4edb5b443a7841f2480c/Adafruit-Blinka-2.1.4.tar.gz#sha256=b95d9d58419c63a863a75ee79a222856384ddcef20010be1b5cae402f57570f4 (from https://pypi.org/simple/adafruit-blinka/), version: 2.1.4
+    Found link https://files.pythonhosted.org/packages/10/15/02e61c15ac3ae692b52f87af643d59e14bc144d2c6557ac04394ba5aded0/Adafruit-Blinka-2.1.5.tar.gz#sha256=09d6c4d27289efd2af6bb53bd980831cfe928c8a8524fe76f70d1ee0aae1777a (from https://pypi.org/simple/adafruit-blinka/), version: 2.1.5
+    Found link https://files.pythonhosted.org/packages/b4/84/0212934672d40829693fbb7958844521fcf2fa4cc51c9b58c511b399ce2d/Adafruit-Blinka-2.1.6.tar.gz#sha256=fea60f52225e6b803fe06ba45fe74845c9e82531888d4de5d4e070db8b02d743 (from https://pypi.org/simple/adafruit-blinka/), version: 2.1.6
+    Found link https://files.pythonhosted.org/packages/ff/c2/66933fffabf5c91170e2b382a19e59d5c6052846bacefdf35c6a67bb053d/Adafruit-Blinka-2.2.0.tar.gz#sha256=7ace184470a3c3bc4831da9e48c872fbecd05049fb41da99cb145502223ed77b (from https://pypi.org/simple/adafruit-blinka/), version: 2.2.0
+    Found link https://files.pythonhosted.org/packages/c5/77/54fa25ae83fc3d01aaeac955c971a8643e37c3669de8e470ffdb079a8b8b/Adafruit-Blinka-2.2.1.tar.gz#sha256=6320031690e341e2a8e1f620d609d4066250d07acc6c6b92ac444c0e8b6c3f92 (from https://pypi.org/simple/adafruit-blinka/), version: 2.2.1
+    Found link https://files.pythonhosted.org/packages/a3/45/0d8aa45672d705c8717b05f36c85079209acde7e814538ec62e305f11dc2/Adafruit-Blinka-2.3.0.tar.gz#sha256=a867ce4d905900cbf879cf1f0c51a60cecdcdb1e6837d0c40bab56e1c2358470 (from https://pypi.org/simple/adafruit-blinka/), version: 2.3.0
+    Found link https://files.pythonhosted.org/packages/94/b7/6eeabc945e1a5b7688ce79df38d440949e7335f5ee7f88d80dc56fd7c7e4/Adafruit-Blinka-2.3.1.tar.gz#sha256=9ab868618fc8bcba779f1a29202c804b2a4b73e7b7babc906ab962bdefb95085 (from https://pypi.org/simple/adafruit-blinka/), version: 2.3.1
+    Found link https://files.pythonhosted.org/packages/0b/48/c8b0bb24b81d1eb748af236b3c9e88f7a7480f6cd9a5578d2cb5dae2ea8f/Adafruit-Blinka-2.3.2.tar.gz#sha256=195c77d7b2c592d2ea3cba43c5fa09a0105c1769bf029aee46a98ebc85786a14 (from https://pypi.org/simple/adafruit-blinka/), version: 2.3.2
+    Found link https://files.pythonhosted.org/packages/55/f9/fc8aff6f46164c1858a830d8e3e95fad25334127330c85fa4a8396a49990/Adafruit-Blinka-2.3.3.tar.gz#sha256=b564855edc814d4f754dc80c91b8a1ba6f102dcad6b7f339de751b5875b11607 (from https://pypi.org/simple/adafruit-blinka/), version: 2.3.3
+    Found link https://files.pythonhosted.org/packages/2b/c9/f3d036a50aa591b52c33b1bca308242d05d3ef829c2beb437ec854117fbf/Adafruit-Blinka-2.4.0.tar.gz#sha256=114dfa133246ec4838aed0ba8c4233d260da51d8cb39e22aef013e9fb832fd0e (from https://pypi.org/simple/adafruit-blinka/), version: 2.4.0
+    Found link https://files.pythonhosted.org/packages/c3/03/374f82a9d5a9c08ad531219cbc0e103b30c88f4535aaa380f8c034005b36/Adafruit-Blinka-2.4.1.tar.gz#sha256=9fbf21d8b4a46a129975528822bae8a3771228f2b85192677c11fe915aab42d8 (from https://pypi.org/simple/adafruit-blinka/), version: 2.4.1
+    Found link https://files.pythonhosted.org/packages/c6/f0/7d0faf9c0d2b6c0d87d4e8d91c59697e765fd5a916efaad5a7b5c9df5230/Adafruit-Blinka-2.5.0.tar.gz#sha256=7c3bf8ec56e3fa494a3c511f91a90f4778265ed3ce98b03edde7252ec77ba4f2 (from https://pypi.org/simple/adafruit-blinka/), version: 2.5.0
+    Found link https://files.pythonhosted.org/packages/12/0f/3b747d9a09396de379951b8662a7d09df1482287305c1b7980acb952fe4e/Adafruit-Blinka-2.5.1.tar.gz#sha256=1feb12f5ad494562338a09584ca2200e38fb1e2f3bfbdc3cb7d97b28559631f1 (from https://pypi.org/simple/adafruit-blinka/), version: 2.5.1
+    Found link https://files.pythonhosted.org/packages/94/6c/4f5b85b0112235c41d74644d6405b04213d02a8ba999bd5d08329e195a8b/Adafruit-Blinka-2.5.2.tar.gz#sha256=3eb9b094d96598eec70dc523e2b715fe644b11aed237ab53075c976d02f871d7 (from https://pypi.org/simple/adafruit-blinka/), version: 2.5.2
+    Found link https://files.pythonhosted.org/packages/f3/e4/4aecb36aa643f9b0a289f1c0f119f839509743575b8ecd61df560937df5b/Adafruit-Blinka-2.5.3.tar.gz#sha256=805dfa44ee486ee4903233f4c40a41605cd63cc86190de47cbdb45e4c4207961 (from https://pypi.org/simple/adafruit-blinka/), version: 2.5.3
+    Found link https://files.pythonhosted.org/packages/df/bf/12052d97f28c41731166e5e7c07f8b2b6b90574871f3c0f5ee94be91c777/Adafruit-Blinka-2.6.0.tar.gz#sha256=ad6c391b09ef3d91cb1cc4baace957c8ad98151960e67905e7fd6780e77c3c22 (from https://pypi.org/simple/adafruit-blinka/), version: 2.6.0
+    Found link https://files.pythonhosted.org/packages/ed/37/8e52aaff931ab5e09719bc7fcbe5008f0f9c70dabe0d24de264e6f3924fd/Adafruit-Blinka-2.6.1.tar.gz#sha256=ccee4014f21d022750697e90bee8db438182a119d41c6fc584fc2842f9ac0265 (from https://pypi.org/simple/adafruit-blinka/), version: 2.6.1
+    Found link https://files.pythonhosted.org/packages/57/6f/9835addd77f0528c61a2ca6acaa6dbd7befa7ef63b3c7e7ed0ef0e2d4929/Adafruit-Blinka-3.0.0.tar.gz#sha256=0e0563cb00317838ae970f02becd82407ae80792e22996168665b3d692638d29 (from https://pypi.org/simple/adafruit-blinka/), version: 3.0.0
+    Found link https://files.pythonhosted.org/packages/4b/28/b4366ca13edd0f25b256cd0f409b944bcf4cb24239b1bd52b15ca908fdfe/Adafruit-Blinka-3.0.1.tar.gz#sha256=ff1c434b92f86bbec56d56f9a7ef1454f1869e8ff31b6dbf0dab8822f1959978 (from https://pypi.org/simple/adafruit-blinka/), version: 3.0.1
+    Found link https://files.pythonhosted.org/packages/fd/2c/df43ac48f6a3b287abe778a05dc72775fe46fbe612a75d4556f079cf9b87/Adafruit-Blinka-3.0.2.tar.gz#sha256=2db936259908023f396e045402cea33b7ab9187f354201918021ae2d17a28914 (from https://pypi.org/simple/adafruit-blinka/), version: 3.0.2
+    Found link https://files.pythonhosted.org/packages/c8/31/3bdce07d2a136ef80dae423cdee09f8e4d8ded64df2becf52efe78b16d7c/Adafruit-Blinka-3.0.3.tar.gz#sha256=c5bcfbff936b77956d6ac31d9142c04f70dff378290b80a658771864606157c1 (from https://pypi.org/simple/adafruit-blinka/), version: 3.0.3
+    Found link https://files.pythonhosted.org/packages/b8/0b/f510b002dffb1ab47d2789aa3edf71c1a4f65e20bff9283559dc697bc8bf/Adafruit-Blinka-3.0.4.tar.gz#sha256=d14e321208fdfbd5ae174f71113efca451dc3fc837ee32223431a5f2c49a0e2b (from https://pypi.org/simple/adafruit-blinka/), version: 3.0.4
+    Found link https://files.pythonhosted.org/packages/02/9c/06aafc86c4abb33500663791faf4fd22a36d6829988b42935d7fd9eda9f6/Adafruit-Blinka-3.0.5.tar.gz#sha256=224c6137a6cf620ef01c8fc17d64b6d787df6a23d371d732c2e77833e4991053 (from https://pypi.org/simple/adafruit-blinka/), version: 3.0.5
+    Found link https://files.pythonhosted.org/packages/b1/f9/7b5b45c9b2b218b9f5853b0108b11a460d1bc5e933ff8167648d2683802b/Adafruit-Blinka-3.0.6.tar.gz#sha256=0ba160cc2f23d3757e6566544c2876091e2edd29fcbaebdb529bbaef6a400cc7 (from https://pypi.org/simple/adafruit-blinka/), version: 3.0.6
+    Found link https://files.pythonhosted.org/packages/aa/aa/1961d35ef568eff1abcb2ce48c6f4065259ce32ff35ffdeea366e053558f/Adafruit-Blinka-3.0.7.tar.gz#sha256=2e80d1b8397d86e0d9e502fe2525e4b8c220ef7b74c867f4048a9ba707310842 (from https://pypi.org/simple/adafruit-blinka/), version: 3.0.7
+    Found link https://files.pythonhosted.org/packages/f0/64/25497dd5ef2ed4d253551a6f31282e57b809b76573b98da0e7b74149b89e/Adafruit-Blinka-3.0.8.tar.gz#sha256=4b22cc9c26d1bc5e409cd7dd4188766417e178362e006c62582d2ba8306c4b18 (from https://pypi.org/simple/adafruit-blinka/), version: 3.0.8
+    Found link https://files.pythonhosted.org/packages/dc/e8/deb45cad123cdd95a76c8ef8284e61f979cae3f2f518c7942693661ddf64/Adafruit-Blinka-3.1.0.tar.gz#sha256=ab471d387464e2104987bc4606f23717890bf71e8ac5a96c042bcb27196dd046 (from https://pypi.org/simple/adafruit-blinka/), version: 3.1.0
+    Found link https://files.pythonhosted.org/packages/24/c4/78a977f2977cb9bce51f604a02c42bf117835a56f30dac123f0f0e8d5f27/Adafruit-Blinka-3.1.1.tar.gz#sha256=89aecf45f230721e188c933da8879eaa701cc0b7a243d721cd3171c8de968914 (from https://pypi.org/simple/adafruit-blinka/), version: 3.1.1
+    Found link https://files.pythonhosted.org/packages/b5/5f/29614cc6b09b0f36bcd784632b904675de38aea8ffbbc6cfd9c2eb8ff014/Adafruit-Blinka-3.1.2.tar.gz#sha256=04b869a54d7a0cb758fe204c288b4851b056c98a18d76734ad7dde3cfd196213 (from https://pypi.org/simple/adafruit-blinka/), version: 3.1.2
+    Found link https://files.pythonhosted.org/packages/d3/b7/2ce3c13b1bd656b83fa3a9b04c99f904c64226580116a23847aca85b958b/Adafruit-Blinka-3.2.0.tar.gz#sha256=fbb04f6b46fb9881549a6da2b5c68df24b406450e1e7de06784d9114ac9bcef4 (from https://pypi.org/simple/adafruit-blinka/), version: 3.2.0
+    Found link https://files.pythonhosted.org/packages/4f/c1/082245ac2a66340c699379ad94d21b7b8b8361b98cabeb4702f2e3b8ac58/Adafruit-Blinka-3.3.0.tar.gz#sha256=ea54f91e544445d33920c9a7a3fb60dea5f2c6e681ee4c74757c4475a03d7f3e (from https://pypi.org/simple/adafruit-blinka/), version: 3.3.0
+    Found link https://files.pythonhosted.org/packages/f6/cf/f4b6b201e53264f5f7482040055ac82732dce679cc0fdaf51ff5730ba8d5/Adafruit-Blinka-3.3.1.tar.gz#sha256=499f94069e02c7453a4fd0486cbd59095da0c99a7d856e00511d5e9bbc657338 (from https://pypi.org/simple/adafruit-blinka/), version: 3.3.1
+    Found link https://files.pythonhosted.org/packages/a8/ff/d0e6020332cc4b33cd4942fb0d048a12ae08143b9203c117a2ae01724b4e/Adafruit-Blinka-3.3.2.tar.gz#sha256=f23b4b93888ec5587bbb2bb11be0f2d5cf57b919c7b51775b543206ad38398e0 (from https://pypi.org/simple/adafruit-blinka/), version: 3.3.2
+    Found link https://files.pythonhosted.org/packages/93/5f/8853990037e427caa8f59023c71880e9f5293656a82127a604136fd2f506/Adafruit-Blinka-3.3.3.tar.gz#sha256=fc842ac67e736063e5a63da6c40f450ae7a10f71e76119cb0c9b4f58c3eabbf7 (from https://pypi.org/simple/adafruit-blinka/), version: 3.3.3
+    Found link https://files.pythonhosted.org/packages/35/f7/3f6f8a65e2c15872900aed6cf795be6c7f44a418722074b33ef934a1ff1f/Adafruit-Blinka-3.3.4.tar.gz#sha256=0a46d55bc7814bc89cf5b0dd1e9561c762d91187d81c8f053c3c04cccce91fb9 (from https://pypi.org/simple/adafruit-blinka/), version: 3.3.4
+    Found link https://files.pythonhosted.org/packages/93/7d/a76059baeb6662e5e9292b8be02a25623d408b19c87449f38cf706cba066/Adafruit-Blinka-3.3.5.tar.gz#sha256=ef31ec8bdc8ad23fe8f2a5d6bb1823f45efbc48bd138ed99d586368fa9185e6d (from https://pypi.org/simple/adafruit-blinka/), version: 3.3.5
+    Found link https://files.pythonhosted.org/packages/9b/4e/e0243d4c9608d216cf83fce1813ff6fd5ab778727b7a97162aea57c9060d/Adafruit-Blinka-3.3.6.tar.gz#sha256=2e5b3ebd6523921fcaab019db08a9a3b9514d68f7e46ca62e0bef600c40d6ac8 (from https://pypi.org/simple/adafruit-blinka/), version: 3.3.6
+    Found link https://files.pythonhosted.org/packages/5d/2b/14cd86c8628be0aed3d3799c6689d6e87b7f29d7ab7973f364d13fc85fb7/Adafruit-Blinka-3.3.7.tar.gz#sha256=81616112389ad0916bbc72d8c0320a3471f57cf79759a1568b17242109c8a2b7 (from https://pypi.org/simple/adafruit-blinka/), version: 3.3.7
+    Found link https://files.pythonhosted.org/packages/21/b3/2c35adf79624942250a6c755efbb8ff874ee11947ef0e3687236b34a8e60/Adafruit-Blinka-3.3.8.tar.gz#sha256=b6c1a3843a1fdafbf50cfb326a601fc5c5f909ce40598b608a62eccc0e4c9533 (from https://pypi.org/simple/adafruit-blinka/), version: 3.3.8
+    Found link https://files.pythonhosted.org/packages/92/36/8eddee9f1314aba04d1f20cdc55ca8937503d7b3a59bba7cbc06faed1f38/Adafruit-Blinka-3.3.9.tar.gz#sha256=4d90024dba33d5533d7f01628bbc21cbc1df2588802f13024e486b6bea4f4e0d (from https://pypi.org/simple/adafruit-blinka/), version: 3.3.9
+    Found link https://files.pythonhosted.org/packages/d2/34/523fb9c63e61607e633cc33126d9cd3c575fdd93e83902e70e4d4c835f07/Adafruit-Blinka-3.3.10.tar.gz#sha256=c1667de210033cc96731988466359de587a08b97c29bac71b801dbfb5cf9e4d6 (from https://pypi.org/simple/adafruit-blinka/), version: 3.3.10
+    Found link https://files.pythonhosted.org/packages/90/6b/e60c934405e4393ed33b18a584314e7603792b308cbb6b7e808e9e5a5fb0/Adafruit-Blinka-3.4.0.tar.gz#sha256=97e839aaca9d3310ae6824337ca7ef5d87f823956f13582a8e854a511b4dc9f1 (from https://pypi.org/simple/adafruit-blinka/), version: 3.4.0
+    Found link https://files.pythonhosted.org/packages/60/dd/26eaf839d10cef24496ff9c4baf28ea76646c221c905142198e3f0ef788b/Adafruit-Blinka-3.4.1.tar.gz#sha256=29d18cbf5a96fc0be511ac77ac8d44f154c1e5cdc1a858baa12be863f46baf22 (from https://pypi.org/simple/adafruit-blinka/), version: 3.4.1
+    Found link https://files.pythonhosted.org/packages/a9/15/1c80852826e6497e482607972d65b64d447d32cc1fac881c1a73605c2484/Adafruit-Blinka-3.5.0.tar.gz#sha256=11fec247281290c0e51ab6338096f4dc18dd1f46cdc7562b6f8eadc77e10444a (from https://pypi.org/simple/adafruit-blinka/), version: 3.5.0
+    Found link https://files.pythonhosted.org/packages/f7/5e/50922391ccc1d2a5c6f03ab4229c120e98ef37e2508bad870786f54050be/Adafruit-Blinka-3.5.1.tar.gz#sha256=ee608c803745c503d650ded98ae19621a7db0eb86838daaa1e21a54f61e7d3c2 (from https://pypi.org/simple/adafruit-blinka/), version: 3.5.1
+    Found link https://files.pythonhosted.org/packages/93/49/0d99b9c0e70fbf1144e11b7ab0f23208dbbc05c79b9eeca86a74e04d04ec/Adafruit-Blinka-3.5.2.tar.gz#sha256=10ee0535b895baf6abe3d2e13d90b14f47ac4d68a19ffe3f8b9bc7dd9dfe394a (from https://pypi.org/simple/adafruit-blinka/), version: 3.5.2
+    Found link https://files.pythonhosted.org/packages/53/e7/6f463ff40d5e1c07054d499baa79304247be806e0a7a0b693e668a8fa1ca/Adafruit-Blinka-3.6.0.tar.gz#sha256=a8f9bf9460bf1d7ef9ec640898928b38b1dacc0e78df6dc42d725d891bbc2002 (from https://pypi.org/simple/adafruit-blinka/), version: 3.6.0
+    Found link https://files.pythonhosted.org/packages/13/3d/9b22abc79c912feb764aa635e4699d59bd7520e78dceba5153458b31be4c/Adafruit-Blinka-3.6.1.tar.gz#sha256=2cd0c0982d8750bf756d0ce0e96abe7cc1df25ea1f87185c5d8c7fc030b7bd37 (from https://pypi.org/simple/adafruit-blinka/), version: 3.6.1
+    Found link https://files.pythonhosted.org/packages/60/6e/520551a0d3cbcd10b2e3bb9472e3234f5ef06c235f4a6bf3946764bc9c78/Adafruit-Blinka-3.7.0.tar.gz#sha256=9267acecbfc7663e87d176bf71635268510f11afe919f38cc03f77acc7638a78 (from https://pypi.org/simple/adafruit-blinka/), version: 3.7.0
+    Found link https://files.pythonhosted.org/packages/51/78/90f41e6bb7a7d156e0e2c7f0243716af306eaaf864d0befa5b00a92241ef/Adafruit-Blinka-3.7.1.tar.gz#sha256=85dc7b3817079d90ccbc5d97ec00f8d361033e02e508cb5edac7974c7a256502 (from https://pypi.org/simple/adafruit-blinka/), version: 3.7.1
+    Found link https://files.pythonhosted.org/packages/b1/24/8db2cdd358e7061f30952bc2fea9166674aaf05d37a0bdcccc8642e418e0/Adafruit-Blinka-3.8.0.tar.gz#sha256=8d1ad2684b9a37adac10d6e22cc07ad29395d31043ba06319780b8491bffbd2a (from https://pypi.org/simple/adafruit-blinka/), version: 3.8.0
+    Found link https://files.pythonhosted.org/packages/f2/9a/2442afd67ca11ff8a5333c9171b7fb09324d6e2a98b15a29602db272815c/Adafruit-Blinka-3.9.0.tar.gz#sha256=5e000d05e1889f72986cc6aeca412972d3dc5b3315cfe758396736730b159176 (from https://pypi.org/simple/adafruit-blinka/), version: 3.9.0
+    Found link https://files.pythonhosted.org/packages/5f/04/7065070beda81105808283551369a7e7e84182cb244983752088744c39aa/Adafruit-Blinka-3.10.0.tar.gz#sha256=4fe3c9e0fb705682ab3ef228e9fee659b5280fd652a85a2efe7b67b4f0ef771a (from https://pypi.org/simple/adafruit-blinka/), version: 3.10.0
+    Found link https://files.pythonhosted.org/packages/5b/2f/926c1ed4b08e74a1e6009f6ecec565f69e601028b779751116e4b460bfdb/Adafruit-Blinka-4.0.0.tar.gz#sha256=633519e30f56bf65837bfe43b146932917721a4826198d22e4dc38895a6575d2 (from https://pypi.org/simple/adafruit-blinka/), version: 4.0.0
+    Found link https://files.pythonhosted.org/packages/43/69/7aac64bcd16bed9c9fa5b093cec8dc934e7d6439683b4b8c2942d5d25ab7/Adafruit-Blinka-4.1.0.tar.gz#sha256=977e8601790e7252ca29967c8e9ff2627f1b8290dad4343dfd5b697905ad7d3e (from https://pypi.org/simple/adafruit-blinka/), version: 4.1.0
+    Found link https://files.pythonhosted.org/packages/cd/0d/55884fc81785ddb49008f96c3c9ddb90627af2e7609df882a712bb7a31e5/Adafruit-Blinka-4.2.0.tar.gz#sha256=375a71854a52779a760c5b2f53f626c9217b523b77ac1c4648ee81c606ce4eec (from https://pypi.org/simple/adafruit-blinka/), version: 4.2.0
+    Found link https://files.pythonhosted.org/packages/85/af/c80441fb5bc7c8021f9e54aaf40ac9eef8294a3892b012013578d26542d3/Adafruit-Blinka-4.3.0.tar.gz#sha256=1254c70430f7dfb4e0a74825d040bcab2d01cedf91e480f7fb580fe30aa32570 (from https://pypi.org/simple/adafruit-blinka/), version: 4.3.0
+    Found link https://files.pythonhosted.org/packages/30/d3/5c077d7fc892cc1cbcb2b96ca341a35f653db39bf2cf4ee2ac3a82431b93/Adafruit-Blinka-4.4.0.tar.gz#sha256=d79916fb5a44368412cee8c9e139a94a9671094c85af2630508bdb30f4bc89de (from https://pypi.org/simple/adafruit-blinka/), version: 4.4.0
+    Found link https://files.pythonhosted.org/packages/39/cb/fbbdaee3d5cfdee51d657cf691f1df98fb7a4abbdab0efb172503a5881e1/Adafruit-Blinka-4.5.0.tar.gz#sha256=80156bc056f892a6d2cc0c714ae198cebb17476ef1fd2988fb5bed0ffa45ccb8 (from https://pypi.org/simple/adafruit-blinka/), version: 4.5.0
+    Found link https://files.pythonhosted.org/packages/ab/7b/358c05bc76d9eccccd3dcdb3e1c365d1101d4ebb2747896ad1797e39e307/Adafruit-Blinka-4.6.0.tar.gz#sha256=84aa370e1c9489974af5a1edd92dcc43161e6f8bf30d2fdd00439fcb8c403ed7 (from https://pypi.org/simple/adafruit-blinka/), version: 4.6.0
+    Found link https://files.pythonhosted.org/packages/65/49/57141c990538e47cce0335e00b5d2c0058a71481203dd2f0420066e95f4b/Adafruit-Blinka-4.7.0.tar.gz#sha256=db5be61ae7426dd3be5355443427f3be1f6af635685a0f74e2af8b0a440be196 (from https://pypi.org/simple/adafruit-blinka/), version: 4.7.0
+    Found link https://files.pythonhosted.org/packages/57/80/734db9ae5baac5be068a7f352e1d8cdb1457700df3f6a6d74532550ddd19/Adafruit-Blinka-4.8.0.tar.gz#sha256=a724ff7e5f84c1f5c239ec29621b176747bfb99fba5b2d8dc4beeeafb5e278eb (from https://pypi.org/simple/adafruit-blinka/), version: 4.8.0
+    Found link https://files.pythonhosted.org/packages/af/48/9ad541fcccef9ede729dff973e773fe8827a061a3dbf24ff2529d8732a0d/Adafruit-Blinka-4.8.1.tar.gz#sha256=b00da4722f1dda095f0ffe78ab3207b81cbb35c32096dfef640bfa7efab3dce7 (from https://pypi.org/simple/adafruit-blinka/), version: 4.8.1
+    Found link https://files.pythonhosted.org/packages/61/69/9cbc96ca0cee2ee99a85c2d3573ff7f3e3392110b14aa7abfe0e65aef040/Adafruit-Blinka-4.9.0.tar.gz#sha256=37a8a9ea0c958696a90932420c148c5c3f1c84e962fa7d5f0bcc3173a506a76a (from https://pypi.org/simple/adafruit-blinka/), version: 4.9.0
+    Found link https://files.pythonhosted.org/packages/83/37/836a1c556582f714cb1f53adab3670a6ad4d26c17045f09093b2a11f58d1/Adafruit-Blinka-4.10.0.tar.gz#sha256=299fec98b0f31453c95d215791d30041c5c7275fd3a4eec6785f2df478082e78 (from https://pypi.org/simple/adafruit-blinka/), version: 4.10.0
+    Found link https://files.pythonhosted.org/packages/74/26/4092e228d96c5522160bf090822e2c5940a417c1eee03ebdcb1df1494bb4/Adafruit-Blinka-4.10.1.tar.gz#sha256=67ed1c1265994e62be8d22f497db2187245754d77403d975e27390663816bf2b (from https://pypi.org/simple/adafruit-blinka/), version: 4.10.1
+  Using version 4.10.1 (newest of versions: 4.10.1, 4.10.0, 4.9.0, 4.8.1, 4.8.0, 4.7.0, 4.6.0, 4.5.0, 4.4.0, 4.3.0, 4.2.0, 4.1.0, 4.0.0, 3.10.0, 3.9.0, 3.8.0, 3.7.1, 3.7.0, 3.6.1, 3.6.0, 3.5.2, 3.5.1, 3.5.0, 3.4.1, 3.4.0, 3.3.10, 3.3.9, 3.3.8, 3.3.7, 3.3.6, 3.3.5, 3.3.4, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.2, 3.1.1, 3.1.0, 3.0.8, 3.0.7, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.2, 3.0.1, 3.0.0, 2.6.1, 2.6.0, 2.5.3, 2.5.2, 2.5.1, 2.5.0, 2.4.1, 2.4.0, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.1, 2.2.0, 2.1.6, 2.1.5, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.2, 2.0.1, 2.0.0, 1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3.0, 1.2.8, 1.2.7, 1.2.6, 1.2.5, 1.2.4, 1.2.3, 1.2.1, 1.2.0, 1.1.1, 1.1.0, 1.0.2, 0.4.0, 0.3.2, 0.3.1, 0.3.0, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2, 0.1.10, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3)
+  Downloading from URL https://files.pythonhosted.org/packages/74/26/4092e228d96c5522160bf090822e2c5940a417c1eee03ebdcb1df1494bb4/Adafruit-Blinka-4.10.1.tar.gz#sha256=67ed1c1265994e62be8d22f497db2187245754d77403d975e27390663816bf2b (from https://pypi.org/simple/adafruit-blinka/)
+  Running setup.py (path:/tmp/pip-build-7gr6k5oq/adafruit-blinka/setup.py) egg_info for package adafruit-blinka
+    Traceback (most recent call last):
+      File "<string>", line 17, in <module>
+      File "/tmp/pip-build-7gr6k5oq/adafruit-blinka/setup.py", line 77, in <module>
+        "Programming Language :: Python :: Implementation :: MicroPython",
+      File "/usr/lib/python3.4/distutils/core.py", line 108, in setup
+        _setup_distribution = dist = klass(attrs)
+      File "/usr/lib/python3/dist-packages/setuptools/dist.py", line 262, in __init__
+        self.fetch_build_eggs(attrs['setup_requires'])
+      File "/usr/lib/python3/dist-packages/setuptools/dist.py", line 287, in fetch_build_eggs
+        replace_conflicting=True,
+      File "/usr/lib/python3/dist-packages/pkg_resources.py", line 631, in resolve
+        dist = best[req.key] = env.best_match(req, ws, installer)
+      File "/usr/lib/python3/dist-packages/pkg_resources.py", line 874, in best_match
+        return self.obtain(req, installer)
+      File "/usr/lib/python3/dist-packages/pkg_resources.py", line 886, in obtain
+        return installer(requirement)
+      File "/usr/lib/python3/dist-packages/setuptools/dist.py", line 338, in fetch_build_egg
+        return cmd.easy_install(req)
+      File "/usr/lib/python3/dist-packages/setuptools/command/easy_install.py", line 636, in easy_install
+        return self.install_item(spec, dist.location, tmpdir, deps)
+      File "/usr/lib/python3/dist-packages/setuptools/command/easy_install.py", line 666, in install_item
+        dists = self.install_eggs(spec, download, tmpdir)
+      File "/usr/lib/python3/dist-packages/setuptools/command/easy_install.py", line 856, in install_eggs
+        return self.build_and_install(setup_script, setup_base)
+      File "/usr/lib/python3/dist-packages/setuptools/command/easy_install.py", line 1078, in build_and_install
+        self.run_setup(setup_script, setup_base, args)
+      File "/usr/lib/python3/dist-packages/setuptools/command/easy_install.py", line 1063, in run_setup
+        run_setup(setup_script, args)
+      File "/usr/lib/python3/dist-packages/setuptools/sandbox.py", line 68, in run_setup
+        DirectorySandbox(setup_dir).run(runner)
+      File "/usr/lib/python3/dist-packages/setuptools/sandbox.py", line 114, in run
+        return func()
+      File "/usr/lib/python3/dist-packages/setuptools/sandbox.py", line 67, in runner
+        _execfile(setup_script, ns)
+      File "/usr/lib/python3/dist-packages/setuptools/sandbox.py", line 43, in _execfile
+        exec(code, globals, locals)
+      File "/tmp/easy_install-1ue0e26_/setuptools_scm-4.1.1/setup.py", line 53, in <module>
+        "busio",
+      File "/usr/lib/python3.4/distutils/core.py", line 108, in setup
+        _setup_distribution = dist = klass(attrs)
+      File "/usr/lib/python3/dist-packages/setuptools/dist.py", line 266, in __init__
+        _Distribution.__init__(self,attrs)
+      File "/usr/lib/python3.4/distutils/dist.py", line 280, in __init__
+        self.finalize_options()
+      File "/usr/lib/python3/dist-packages/setuptools/dist.py", line 301, in finalize_options
+        ep.load()(self, ep.name, value)
+      File "/tmp/easy_install-1ue0e26_/setuptools_scm-4.1.1/src/setuptools_scm/integration.py", line 9, in version_keyword
+      File "/tmp/easy_install-1ue0e26_/setuptools_scm-4.1.1/src/setuptools_scm/version.py", line 60, in _warn_if_setuptools_outdated
+    setuptools_scm.version.SetuptoolsOutdatedWarning: your setuptools is too old (<12)
+    /tmp/easy_install-1ue0e26_/setuptools_scm-4.1.1/src
+    <pkg_resources.WorkingSet object at 0xb6550370>
+    Complete output from command python setup.py egg_info:
+    Traceback (most recent call last):
+
+  File "<string>", line 17, in <module>
+
+  File "/tmp/pip-build-7gr6k5oq/adafruit-blinka/setup.py", line 77, in <module>
+
+    "Programming Language :: Python :: Implementation :: MicroPython",
+
+  File "/usr/lib/python3.4/distutils/core.py", line 108, in setup
+
+    _setup_distribution = dist = klass(attrs)
+
+  File "/usr/lib/python3/dist-packages/setuptools/dist.py", line 262, in __init__
+
+    self.fetch_build_eggs(attrs['setup_requires'])
+
+  File "/usr/lib/python3/dist-packages/setuptools/dist.py", line 287, in fetch_build_eggs
+
+    replace_conflicting=True,
+
+  File "/usr/lib/python3/dist-packages/pkg_resources.py", line 631, in resolve
+
+    dist = best[req.key] = env.best_match(req, ws, installer)
+
+  File "/usr/lib/python3/dist-packages/pkg_resources.py", line 874, in best_match
+
+    return self.obtain(req, installer)
+
+  File "/usr/lib/python3/dist-packages/pkg_resources.py", line 886, in obtain
+
+    return installer(requirement)
+
+  File "/usr/lib/python3/dist-packages/setuptools/dist.py", line 338, in fetch_build_egg
+
+    return cmd.easy_install(req)
+
+  File "/usr/lib/python3/dist-packages/setuptools/command/easy_install.py", line 636, in easy_install
+
+    return self.install_item(spec, dist.location, tmpdir, deps)
+
+  File "/usr/lib/python3/dist-packages/setuptools/command/easy_install.py", line 666, in install_item
+
+    dists = self.install_eggs(spec, download, tmpdir)
+
+  File "/usr/lib/python3/dist-packages/setuptools/command/easy_install.py", line 856, in install_eggs
+
+    return self.build_and_install(setup_script, setup_base)
+
+  File "/usr/lib/python3/dist-packages/setuptools/command/easy_install.py", line 1078, in build_and_install
+
+    self.run_setup(setup_script, setup_base, args)
+
+  File "/usr/lib/python3/dist-packages/setuptools/command/easy_install.py", line 1063, in run_setup
+
+    run_setup(setup_script, args)
+
+  File "/usr/lib/python3/dist-packages/setuptools/sandbox.py", line 68, in run_setup
+
+    DirectorySandbox(setup_dir).run(runner)
+
+  File "/usr/lib/python3/dist-packages/setuptools/sandbox.py", line 114, in run
+
+    return func()
+
+  File "/usr/lib/python3/dist-packages/setuptools/sandbox.py", line 67, in runner
+
+    _execfile(setup_script, ns)
+
+  File "/usr/lib/python3/dist-packages/setuptools/sandbox.py", line 43, in _execfile
+
+    exec(code, globals, locals)
+
+  File "/tmp/easy_install-1ue0e26_/setuptools_scm-4.1.1/setup.py", line 53, in <module>
+
+    "busio",
+
+  File "/usr/lib/python3.4/distutils/core.py", line 108, in setup
+
+    _setup_distribution = dist = klass(attrs)
+
+  File "/usr/lib/python3/dist-packages/setuptools/dist.py", line 266, in __init__
+
+    _Distribution.__init__(self,attrs)
+
+  File "/usr/lib/python3.4/distutils/dist.py", line 280, in __init__
+
+    self.finalize_options()
+
+  File "/usr/lib/python3/dist-packages/setuptools/dist.py", line 301, in finalize_options
+
+    ep.load()(self, ep.name, value)
+
+  File "/tmp/easy_install-1ue0e26_/setuptools_scm-4.1.1/src/setuptools_scm/integration.py", line 9, in version_keyword
+
+  File "/tmp/easy_install-1ue0e26_/setuptools_scm-4.1.1/src/setuptools_scm/version.py", line 60, in _warn_if_setuptools_outdated
+
+setuptools_scm.version.SetuptoolsOutdatedWarning: your setuptools is too old (<12)
+
+/tmp/easy_install-1ue0e26_/setuptools_scm-4.1.1/src
+
+<pkg_resources.WorkingSet object at 0xb6550370>
+
+----------------------------------------
+Cleaning up...
+Command python setup.py egg_info failed with error code 1 in /tmp/pip-build-7gr6k5oq/adafruit-blinka
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/pip/basecommand.py", line 122, in main
+    status = self.run(options, args)
+  File "/usr/lib/python3/dist-packages/pip/commands/install.py", line 290, in run
+    requirement_set.prepare_files(finder, force_root_egg_info=self.bundle, bundle=self.bundle)
+  File "/usr/lib/python3/dist-packages/pip/req.py", line 1230, in prepare_files
+    req_to_install.run_egg_info()
+  File "/usr/lib/python3/dist-packages/pip/req.py", line 326, in run_egg_info
+    command_desc='python setup.py egg_info')
+  File "/usr/lib/python3/dist-packages/pip/util.py", line 716, in call_subprocess
+    % (command_desc, proc.returncode, cwd))
+pip.exceptions.InstallationError: Command python setup.py egg_info failed with error code 1 in /tmp/pip-build-7gr6k5oq/adafruit-blinka
